@@ -1,6 +1,6 @@
 # Financial Calculator
 
-https://github.com/sam2402/financialCalculator![image](https://sam2402.github.io/images/financialCalculator.jpg)
+![https://github.com/sam2402/financialCalculator](https://sam2402.github.io/images/financialCalculator.jpg)
 
 ##### How to run Financial Calculator:
 - Make sure you have the react native development environment set up. If you don't I recommend using the React Native CLI Quickstart guide (https://reactnative.dev/docs/environment-setup)
